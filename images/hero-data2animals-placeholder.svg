@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-label="Abstract animal science data landscape">
+  <rect width="1600" height="1000" fill="#083638"/>
+  <path d="M0 720C220 540 365 510 590 610s385 110 590-70 300-190 420-160v620H0z" fill="#3f7d57"/>
+  <path d="M0 350C260 230 480 240 705 370s455 190 895-35v260C1220 780 900 735 640 610S220 500 0 650z" fill="#2f7de1" opacity=".72"/>
+  <g fill="none" stroke="#fbf3e9" stroke-width="3" opacity=".32">
+    <path d="M120 760C390 620 610 650 825 720s405 40 650-120"/>
+    <path d="M80 680C335 555 560 575 790 645s430 90 710-110"/>
+    <path d="M180 830C410 710 610 725 850 800s410 55 610-75"/>
+  </g>
+  <g fill="#ec4fa0">
+    <circle cx="260" cy="570" r="14"/>
+    <circle cx="735" cy="680" r="14"/>
+    <circle cx="1145" cy="545" r="14"/>
+    <circle cx="1320" cy="720" r="14"/>
+  </g>
+</svg>
