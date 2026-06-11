@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 72" role="img" aria-label="EAAP">
+  <rect width="260" height="72" rx="12" fill="#7A1745"/>
+  <path d="M20 20h4v32h-4zM28 20h4v32h-4zM18 34h18v4H18z" fill="#fff"/>
+  <text x="48" y="34" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="0.09em">EAAP</text>
+  <text x="48" y="50" fill="#f2d9e3" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.14em">EUROPEAN ASSOCIATION</text>
+</svg>

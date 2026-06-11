@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 72" role="img" aria-label="KU Leuven">
+  <rect width="260" height="72" rx="12" fill="#004B93"/>
+  <path d="M18 18h8v36h-8zM18 18l18 18-18 18" fill="#fff"/>
+  <text x="46" y="30" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="0.02em">KU LEUVEN</text>
+  <text x="46" y="48" fill="#cfe0f4" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.18em">UNIVERSITY</text>
+</svg>

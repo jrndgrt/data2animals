@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 72" role="img" aria-label="ILVO">
+  <rect width="260" height="72" rx="12" fill="#2F7D57"/>
+  <circle cx="24" cy="36" r="12" fill="#fff" opacity="0.18"/>
+  <path d="M18 27c7 3 11 10 11 19" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M28 24c5 5 7 11 7 18" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <text x="48" y="34" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="0.08em">ILVO</text>
+  <text x="48" y="50" fill="#e2f0e8" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="0.14em">AGRICULTURAL RESEARCH</text>
+</svg>
