@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Oxidative status icon">
+  <defs>
+    <linearGradient id="oxRing" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F7DE1"/>
+      <stop offset="1" stop-color="#EC4FA0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="50" fill="none" stroke="url(#oxRing)" stroke-width="8"/>
+  <circle cx="80" cy="80" r="24" fill="none" stroke="#3F7D57" stroke-width="6"/>
+  <path d="M80 44v18M80 98v18M44 80h18M98 80h18M56 56l12 12M92 92l12 12M56 104l12-12M92 68l12-12" stroke="#083638" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="80" cy="80" r="5" fill="#EC4FA0"/>
+</svg>

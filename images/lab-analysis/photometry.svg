@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Photometry icon">
+  <defs>
+    <linearGradient id="photoRing" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F7DE1"/>
+      <stop offset="1" stop-color="#EC4FA0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="50" fill="none" stroke="url(#photoRing)" stroke-width="8"/>
+  <rect x="54" y="42" width="52" height="72" rx="8" fill="none" stroke="#3F7D57" stroke-width="6"/>
+  <path d="M46 80h14M100 80h14" stroke="#083638" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 48v64" stroke="#2F7DE1" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="80" cy="80" r="12" fill="none" stroke="#EC4FA0" stroke-width="5"/>
+  <circle cx="56" cy="52" r="4" fill="#2F7DE1"/>
+</svg>

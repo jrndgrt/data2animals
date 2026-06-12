@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="HPLC icon">
+  <defs>
+    <linearGradient id="hplcRing" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F7DE1"/>
+      <stop offset="1" stop-color="#EC4FA0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="50" fill="none" stroke="url(#hplcRing)" stroke-width="8"/>
+  <path d="M50 104h16l8-44 10 58 10-30 8 16h10" fill="none" stroke="#3F7D57" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 48h14v40H96z" fill="none" stroke="#083638" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M104 48v40" stroke="#2F7DE1" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="56" cy="52" r="4" fill="#EC4FA0"/>
+</svg>

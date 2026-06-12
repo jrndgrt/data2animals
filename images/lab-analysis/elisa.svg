@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="ELISA icon">
+  <defs>
+    <linearGradient id="elisaRing" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F7DE1"/>
+      <stop offset="1" stop-color="#EC4FA0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="50" fill="none" stroke="url(#elisaRing)" stroke-width="8"/>
+  <rect x="44" y="56" width="72" height="48" rx="8" fill="none" stroke="#3F7D57" stroke-width="6"/>
+  <path d="M56 68h48M56 80h48M56 92h48M68 56v48M80 56v48M92 56v48" stroke="#083638" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="56" cy="48" r="4" fill="#EC4FA0"/>
+  <circle cx="104" cy="48" r="4" fill="#2F7DE1"/>
+</svg>

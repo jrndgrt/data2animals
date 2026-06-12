@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Wet chemistry icon">
+  <defs>
+    <linearGradient id="wcRing" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F7DE1"/>
+      <stop offset="1" stop-color="#EC4FA0"/>
+    </linearGradient>
+    <linearGradient id="wcBody" x1="54" y1="40" x2="102" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3F7D57"/>
+      <stop offset="1" stop-color="#2F7DE1"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="50" fill="none" stroke="url(#wcRing)" stroke-width="8"/>
+  <path d="M61 37h38l-5 8v21l16 30a8 8 0 0 1-7 12H57a8 8 0 0 1-7-12l16-30V45z" fill="none" stroke="url(#wcBody)" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M56 98h48" fill="none" stroke="#083638" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="71" cy="77" r="5" fill="#EC4FA0"/>
+  <circle cx="90" cy="84" r="5" fill="#2F7DE1"/>
+  <circle cx="80" cy="56" r="3.5" fill="#3F7D57"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Histology icon">
+  <defs>
+    <linearGradient id="histRing" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2F7DE1"/>
+      <stop offset="1" stop-color="#EC4FA0"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="50" fill="none" stroke="url(#histRing)" stroke-width="8"/>
+  <path d="M56 44h22l18 18v54H56z" fill="none" stroke="#3F7D57" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M78 44v20h18" fill="none" stroke="#3F7D57" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M64 70h28M64 82h28M64 94h28" stroke="#2F7DE1" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="104" cy="104" r="8" fill="none" stroke="#EC4FA0" stroke-width="5"/>
+</svg>
